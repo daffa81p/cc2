@@ -90,7 +90,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold text-gray-800 ">About The Company</h2>
           <h2 className="w-20 h-2 bg-yellow-500"></h2>
           <p className="text-gray-700 mb-6">
-            Caterpillar is the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial turbines and diesel-electric locomotives. We are also a leading financial services provider through Caterpillar Financial Services.
+            Caterpillar is the worlds leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial turbines and diesel-electric locomotives. We are also a leading financial services provider through Caterpillar Financial Services.
           </p>
         </section>
 

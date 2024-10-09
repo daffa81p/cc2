@@ -2,7 +2,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import Image from "next/image";
-export default function teams() {
+export default function Page() {
    
 const [dataUser,setDataUser] = useState([])
 const onFetching = async() => {
